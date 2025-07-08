@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Ekzo and I'm a IT Student, from University Technology Yogyakarta.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about Coding, AI, Data, and Web<br>🎯 Goals: Work as AI Engineer or Data Scientist and live happily <br>🎲 Fun fact: I'am not funny</p>
 
 ###
 
