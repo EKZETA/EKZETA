@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about Coding, AI, Data, and Web<br>🎯 Goals: Work as AI Engineer or Data Scientist and live happily <br>🎲 Fun fact: I'am not funny</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about Coding, Machine Learning, AI, Data, and Web<br>🎯 Goals: Work as AI Engineer or Data Scientist and live happily <br>🎲 Fun fact: I'am not funny</p>
 
 ###
 
