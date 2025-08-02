@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ekzo and I'm a IT Student from University of Technology Yogyakarta.</p>
+<p align="left">My name is Ekzo and I'm an IT Student from University of Technology Yogyakarta.</p>
 
 ###
 
